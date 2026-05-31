@@ -9,3 +9,4 @@ sum += num;
 
 printf("Average = %.2f\n", sum / 10);
 return 0;
+}
